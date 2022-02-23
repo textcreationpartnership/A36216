@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Danger of pride and ambition, with the excellency of humility &amp; obedience shewing the reasons why the former ought to be avoided, and the later chosen and imbraced : being a profitable discourse, occasionally published upon the funeral solemnity of a late unfortunate person.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36216</idno>
+            <idno type="STC">Wing D178</idno>
+            <idno type="STC">ESTC R12518</idno>
+            <idno type="EEBO-CITATION">11913600</idno>
+            <idno type="OCLC">ocm 11913600</idno>
+            <idno type="VID">50861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36216)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50861)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 24:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Danger of pride and ambition, with the excellency of humility &amp; obedience shewing the reasons why the former ought to be avoided, and the later chosen and imbraced : being a profitable discourse, occasionally published upon the funeral solemnity of a late unfortunate person.</title>
+               </titleStmt>
+               <extent>[23] p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by H.B. for P. Brooksby ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:50861:1"/>
+            <pb facs="tcp:50861:1" rendition="simple:additions"/>
+            <p>The Danger of Pride and Ambition.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:50861:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:50861:2" rendition="simple:additions"/>
+            <p>THE DANGER OF <hi>Pride and Ambition.</hi> With the Excellency of Humility &amp; Obedience.</p>
+            <p>
+               <hi>SHEWING</hi> The Reaſons why the former ought to be Avoided, and the later Choſen and Imbraced.</p>
+            <p>Being a Profitable Diſcourſe, occa<g ref="char:EOLhyphen"/>ſionally Publiſhed upon the Funeral So<g ref="char:EOLhyphen"/>lemnity of a late Unfortunate Perſon.</p>
+            <q>
+               <bibl>1 Kings, 1 chap. 5 ver.</bibl>
+               <p>Then <hi>Adoni<g ref="char:EOLhyphen"/>jah</hi> the Son of <hi>Haggith,</hi> exalted him ſelf, ſaying, I will be King: and he prepared himſelf Chariots and Horſe<g ref="char:EOLhyphen"/>men, and fifty Men to run before him.</p>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed,</p>
+                        <closer>
+                           <signed>R. L S.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed by <hi>H. B.</hi> for <hi>P. Brooksby</hi> at the Golden Ball in <hi>Py-corner.</hi> 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50861:3"/>
+            <pb facs="tcp:50861:3"/>
+            <head>The DANGER of <hi>PRIDE</hi> and <hi>AMBITION. &amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>1 <hi>Kings,</hi> 1 Chap. 5 Verſe.</bibl>
+                  <p>Then <hi>Adonijah</hi> the Son of <hi>Haggith,</hi> exalted himſelf, ſaying, I will be King; and he prepared himſelf Chariots and Horſemen, and fifty Men to run before him.</p>
+               </q>
+            </epigraph>
+            <p>AMongſt all the Bleſſings that contribute to Mans felicity, there is nothing that ought to be more deſirable, to make him truly <hi>happy</hi> in this World, and furniſh him with an opportunity to prepare him for the other, than true <hi>content, humility, calmneſs of mind,</hi> and a <hi>reſolution</hi> to be pleaſed, and ſit down quiet, in what <hi>ſta<g ref="char:EOLhyphen"/>tion</hi> ſoever GOD has appointed or allotted him, not to meddle nor concern himſelf in other mens <hi>affaires,</hi> nor be emulous of
+<pb facs="tcp:50861:4"/>
+               <hi>Greatneſs,</hi> but in <hi>patience</hi> and <hi>meekneſs</hi> to under go what ever ſhall befall him, not repineing nor revileing, but rejoycing, not ſhaken by the <hi>Storms</hi> of <hi>adverſity,</hi> nor ſwell'd with the <hi>Tide</hi> of <hi>proſperity,</hi> but re<g ref="char:EOLhyphen"/>maining alwaies the ſame, rendering Honour, Obedience, and Reſpect where <hi>it ought to be,</hi> and a civil behaviour to<g ref="char:EOLhyphen"/>wards all men, living blameleſs, and in a <hi>Chriſtian charity</hi> with your fellow-Crea<g ref="char:EOLhyphen"/>tures. Such a one (I ſay) lives in a per<g ref="char:EOLhyphen"/>petual <hi>calm,</hi> let the <hi>ſtorm roar</hi> round him never ſo loud, and the <hi>waves</hi> daſh never ſo much, having built his Houſe upon a <hi>Rock:</hi> When the <hi>reſtleſs</hi> and <hi>unquiet man</hi> is ever toſſed in the Ocean of hazards and dangers, being every moment ready to ſplit upon the <hi>Rocks of miſery,</hi> or ſtrand himſelf on the Beach of Shame and Diſ<g ref="char:EOLhyphen"/>grace. For ſure it is, there is nothing proves more fatal to the Sons of <hi>Adam</hi> than <hi>Pride</hi> and her black off-ſpring <hi>Am<g ref="char:EOLhyphen"/>bition;</hi> nay, and not only to <hi>Man,</hi> but <hi>Angels,</hi> as appears by <hi>Thoſe</hi> whoſe <hi>proud
+<pb facs="tcp:50861:4"/>aſpiring</hi> cauſed their <hi>Fall,</hi> from the Man<g ref="char:EOLhyphen"/>ſions of Joy and Bliſs, in a Dungeon of horrid Darkneſs, and Abyſs of endleſs Pain and Miſery, bound in everlaſting Chaines of Puniſhment. Yet is it not ſufficient to deter <hi>raſh Mortals</hi> from imi<g ref="char:EOLhyphen"/>tating thoſe <hi>Infernal Legions,</hi> as far as cor<g ref="char:EOLhyphen"/>poreal Beings are capable of imitating incorporeal; as is evident in <hi>divers,</hi> who have wilfully courted <hi>Pride</hi> and <hi>Am<g ref="char:EOLhyphen"/>bition</hi> to their own deſtruction, blinded with <hi>hopes</hi> of <hi>greatneſs,</hi> they did not, or would not ſee the <hi>eminent Danger</hi> that attended the <hi>raſhneſs</hi> of their <hi>Folly,</hi> but being of a <hi>reſtleſs nature,</hi> gave way to that <hi>Feavouriſh Diſorder</hi> that drove them from their <hi>happy ſtation</hi> to <hi>ſhame</hi> and <hi>diſ<g ref="char:EOLhyphen"/>grace,</hi> over and above, the Trouble and Anxiety that ſtill poſſeſſed the mind with fears and jealouſies; for <hi>Ambition</hi> is a continual Tempeſt, that toſſes the <hi>labouring Soul</hi> upon the Sea of <hi>Hope;</hi> and for the moſt part <hi>Lawleſs Deſire</hi> (a thing that is ever craving, but never ſatisfied,)
+<pb facs="tcp:50861:5"/>endeavouring to paſs all bounds and li<g ref="char:EOLhyphen"/>mits, impatient of <hi>eaſe</hi> and <hi>reſtraint,</hi> ſtill aſpiring to <hi>Riſe</hi> above the common Lea<g ref="char:EOLhyphen"/>vell, and always envying Superiors, and diſdaining Equals and Inferiours, frought continually with <hi>Airy imaginations,</hi> rea<g ref="char:EOLhyphen"/>ching after <hi>lofty things,</hi> and deſiring <hi>impoſſibilities.</hi>
+            </p>
+            <p>Put caſe the Man whoſe Soul is too <hi>prone</hi> to draw in this fatal Poiſon, ſhould have his <hi>firſt deſire</hi> to be <hi>great</hi> and <hi>proſperous,</hi> to live in <hi>plenty</hi> and <hi>eaſe,</hi> be reſpected with all imaginable <hi>Regard,</hi> Would this content him? No, his Soul (infected with the Feaver of <hi>Ambition</hi>) would ſtill be craving, the Temptation would be buzzing in his Ears, that ſome <hi>neighbouring Cedar</hi> dropped upon his Boughs, ſome <hi>others</hi> Fame and Greatneſs eclipſed <hi>his,</hi> and could he but aſpire above <hi>him,</hi> he would <hi>promiſe</hi> himſelf <hi>eaſe</hi> and <hi>content,</hi> deſiring no <hi>greater promotion.</hi>
+            </p>
+            <pb facs="tcp:50861:5"/>
+            <p> This (perhaps) is granted, which (in likelihood) may for a while give ſatisfaction, but not long, e're he com<g ref="char:EOLhyphen"/>plaines the Clouds over-ſhadow him, and ſcreen from the cheerful <hi>Sun-beams,</hi> ſome <hi>greater Favourite</hi> than himſelf ap<g ref="char:EOLhyphen"/>pears, whoſe <hi>ſight</hi> he badly indures; nor can he have <hi>reſt or eaſe,</hi> but daily tor<g ref="char:EOLhyphen"/>tures and torments himſelf, imagining <hi>his own</hi> Luſtre to be dimn in compariſon of <hi>his</hi> that is above him; And now his Wiſhes are renewed, promiſing himſelf <hi>content,</hi> could <hi>this Obſtacle</hi> be removed; which peradventure falls out to his wiſh, but then the Sun-beams beat too hot upon his <hi>aſpiring Top,</hi> and fain he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d be above it, grieved he is, and to gratifie himſelf, leaves no means unattempted, which he conceives may any way fur<g ref="char:EOLhyphen"/>ther his purpoſe; no <hi>horrid miſchief</hi> can ſeem a <hi>Danger</hi> greater than he will ven<g ref="char:EOLhyphen"/>ture on, though to his <hi>certain Ruin;</hi> as many ſad examples have made appa<g ref="char:EOLhyphen"/>rent: How were <hi>Chora, Dathan,</hi> and
+<pb facs="tcp:50861:6"/>
+               <hi>Abiram,</hi> for Ambitiouſly aſpiring to equalize themſelves with <hi>Moſes,</hi> and ſo conſequently eclipſe that Power GOD had ordained, ſwallowed alive, with all that appertained unto them? The ponderous <hi>Globe</hi> hearing the Voice of its Creator, cleaft aſunder, and wide yauning, ſunk them to its center, giving their <hi>Ambition</hi> a <hi>fall,</hi> as low as its aſpir<g ref="char:EOLhyphen"/>ing hoped to carry it aloft.</p>
+            <p>How did the great <hi>Goliah,</hi> tow'ring in his <hi>hauty pride,</hi> defie the Armys of the Living God, proudly inſulting for a while, <hi>Ambitious</hi> yet to get a greater and more dreaded name, till <hi>David</hi> (but a Youth) by unſuſpected ways overthrew him, bereaving him of <hi>Life</hi> and <hi>Honour</hi> in a moment.</p>
+            <p>Young <hi>Abſalom,</hi> in whoſe hot Breaſt <hi>Ambition</hi> ſpread her deadly Bane, not contented with the Favours of an Indul<g ref="char:EOLhyphen"/>gent King, whoſe <hi>paternal care</hi> and <hi>ten<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:50861:6"/>love</hi> had reſcued him from <hi>Death,</hi> (his due for <hi>murthering</hi> his Brother <hi>Amnon</hi>) nor the favour of <hi>reſtoring</hi> after Baniſhment, with many Princely Bene<g ref="char:EOLhyphen"/>fits heaped on him by the Royal Hand; but flattering himſelf with hopes of Empire, prompted by <hi>Ambition,</hi> he firſt found means to ſteal the Peoples hearts and then with impious Armes invaded the Heritage of <hi>Jacob,</hi> and moleſted thoſe whom he ought to have defended to his Power, and rendered due Obe<g ref="char:EOLhyphen"/>dience to his Father and his King: But long did not the Breath of the Multitude, nor their <hi>Tumultuous Armes</hi> availe him, but routed in all <hi>parts,</hi> and flying, his greateſt Ornament became the cauſe of his <hi>Deſtruction;</hi> for hanging by the Hair in a thick Oak, he loſt his Life with his Ambition, falling by the hand of <hi>Joab,</hi> the <hi>Terror</hi> of his <hi>Crime</hi> being ſo great, that although it appears he had a <hi>conſiderable time</hi> to do it in, he could not unlooſe himſelf; which gave ſome
+<pb facs="tcp:50861:7"/>of the <hi>Jewiſh</hi> Rabins occaſion to imagine that when he was ſo hanging, he fancied Hell to be gaping beneath him, and that if he were unlooſed, he ſhould inſtantly drop into it, the <hi>Terrour</hi> of which wrought ſo far, that he had no <hi>power</hi> to <hi>relieve</hi> himſelf. But whether ſo, or otherwiſe, certain it is, he received the <hi>reward</hi> of his <hi>Treaſon and Rebellion,</hi> and might have been a ſufficient <hi>Warning</hi> to <hi>others,</hi> whereby they might have <hi>in<g ref="char:EOLhyphen"/>ſtructed</hi> themſelves of what fatal conſe<g ref="char:EOLhyphen"/>quence ſuch <hi>dangerous, unnatural,</hi> and <hi>lawleſs attempts</hi> are, and how high diſ<g ref="char:EOLhyphen"/>pleaſing to Almighty God, who failes not to <hi>puniſh thoſe</hi> that enterprize them with a more than ordinary <hi>ſeverity,</hi> that ſo they may ſtand as <hi>Sea-marks,</hi> to prevent the <hi>wrack of others</hi> upon the ſame fatal <hi>Rock,</hi> or bedding <hi>Quickſand.</hi>
+            </p>
+            <p>Nor can any one be truly ſaid to <hi>ſerve God,</hi> in whoſe heart <hi>Pride</hi> and <hi>Am<g ref="char:EOLhyphen"/>bition</hi> have the leaſt abode; for God on<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:50861:7"/>
+               <hi>regards</hi> the lowly and humble; to them it is he gives <hi>Grace,</hi> and meanes of <hi>ſincere Repentance,</hi> and not only<g ref="char:punc">▪</g> a turn<g ref="char:EOLhyphen"/>ing away from, but an abhorrance and deteſtation of <hi>Sin,</hi> who make it their buſineſs to live <hi>juſt and upright</hi> in the ſight of GOD and Man: But the <hi>proud</hi> and <hi>haughty-minded</hi> he brings low, ma<g ref="char:EOLhyphen"/>king them humble, not according to <hi>their</hi> Will and Inclination, but by Force and Conſtraint, fruſtrating their <hi>en<g ref="char:EOLhyphen"/>terprizes,</hi> and giving <hi>checks</hi> to <hi>their aſpiring,</hi> though many times it proves greatly to their <hi>advantage,</hi> by giving them an inſight of their <hi>Folly</hi> and <hi>Raſh<g ref="char:EOLhyphen"/>neſs,</hi> laying before them the <hi>danger</hi> that they were in, letting them under<g ref="char:EOLhyphen"/>ſtand how <hi>much</hi> they were flattered and abuſed by <hi>thoſe</hi> upon whoſe breath they ſoared, till (<hi>Icarius</hi> like) their <hi>wings</hi> were ſinged, and the matter that kept them in order melted: To let them ſee (I ſay) how much their <hi>folly</hi> has undone them, and by what means they
+<pb facs="tcp:50861:8"/>were <hi>Ruined,</hi> which is in ſome mea<g ref="char:EOLhyphen"/>ſure a Mercy, to incite and compell them to pay due <hi>Acknowledgments;</hi> due <hi>Tributes</hi> of Praiſe and Thankſgiving to his <hi>Great Name;</hi> who takes ſuch Care of thoſe that are <hi>regardleſs</hi> of them<g ref="char:EOLhyphen"/>ſelves, and has <hi>many wayes</hi> to bring them back to that <hi>Safety</hi> they were running from.</p>
+            <p>So <hi>Jonah</hi> in proud Contempt of the <hi>Heavenly Meſſage,</hi> was overtaken in his flight, and after a ſevere humbling, to let ſee in whoſe Hands and Power he was, gladly obeyed, when crying againſt the Sins of <hi>Nineveh,</hi> he made his Reconcilement with the <hi>Almighty.</hi>
+            </p>
+            <p>As for Man in this Caſe, he is frequently drawn away by flattery, and perſwaſion, a Praiſe of his Excel<g ref="char:EOLhyphen"/>lencies and great Deſerts, his Wiſdom and Knowledg, his Fortitude and Con<g ref="char:EOLhyphen"/>duct, which by inſenſible Wayes in<g ref="char:EOLhyphen"/>ſtills
+<pb facs="tcp:50861:8"/>into the Soul a kind of a ſelf-de<g ref="char:EOLhyphen"/>ceiving to many, being apt to believe that that they would have to be ſo, and too frequently <hi>overvalue themſelves</hi> up<g ref="char:EOLhyphen"/>on that that is not, which inflames them to a <hi>deſire</hi> of many things beyond their <hi>Reach,</hi> fancying themſelves much <hi>wronged and injured</hi> if they have not their Expectations anſwered, and therefore bend their <hi>Studies,</hi> and <hi>endea<g ref="char:EOLhyphen"/>vours</hi> to gratifie themſelves therein too frequently, by <hi>unlawful wayes</hi> and <hi>means,</hi> which for the moſt part involves them<g ref="char:EOLhyphen"/>ſelves and others in <hi>Ruin</hi> and <hi>Diſgrace,</hi> for certain it is, that ſelf-flattery ſwells ſome Men to ſuch a Degree, that it drives them forward into all Perils and Dangers, as a Ship without a Pilot, riding before a furious Wind, ruſhing on a Craggy Rock, whoſe deſtructive top the Waves can cover, but by Turns is torn in Pieces, and ſo broken, becomes for the future, the floating-paſtime of the Ocean.</p>
+            <pb facs="tcp:50861:9"/>
+            <p> There is nothing that the Almighty more abominates than <hi>Pride</hi> and <hi>Am<g ref="char:EOLhyphen"/>bition;</hi> as appears by the Fall of the Angels, mentioned in the beginning of this <hi>Diſcourſe,</hi> who being happy in the Realms of <hi>Light,</hi> and capable of injoying what might render them ſo Eternally Happy, they fondly choſe to be <hi>greater</hi> than they were deſigned, and thereupon growing diſcontented, proudly aſpired to equalty with their Maker, but ſoon found their folly by a through ſenſe of Pain and ſhame caſt out, and deprived of the Beatifick Viſion, rendred for ever incapable of recovering their Native Seats, or the Favour of him, <hi>in whoſe preſence is fulneſs of joy and pleaſures for evermore;</hi> and by that very wile the Serpent, that is the Infernal Fiend in the ſhape of the Serpent, or really poſſeſſing him, Tempts <hi>Eve</hi> in <hi>Paradiſe,</hi> even with Promiſes of a more Tranſcendant Hap<g ref="char:EOLhyphen"/>pineſs, though ſhe found it far other<g ref="char:EOLhyphen"/>wiſe,
+<pb facs="tcp:50861:9"/>undoing her ſelf and all the race of Mankind, had not Infinite Mercy found out a way to <hi>reſtore them</hi> to a <hi>ſecond happineſs,</hi> by Regeneration, and a firm relyance on Him who is the Fountain of Salvation, who gave him<g ref="char:EOLhyphen"/>ſelf for us.</p>
+            <p>Nay, <hi>Ambition</hi> is that which prompts Men to all manner of Violence and Diſorder; for blinded or intoxicated with the ſeeming-lucious bane, what will not ſome men do to make Way to their deſires; to reſiſt which the ſtrongeſt Tyes of Friendſhip are not ſufficient, through what Injurys have been left undone on this occaſion: what Bloodſhed and Miſchief has it cauſed, being in many Caſes like a Torrent, the more it is oppoſed, the more furiouſly it raves and foames, though in the end it expires like a Comet which has waſted the unctious matter that the Earth hath ſent up to
+<pb facs="tcp:50861:10"/>feed its portentious flame. How many have felt the Sting of this fatal Ser<g ref="char:EOLhyphen"/>pent? How many have found it like a Thorn in <hi>their own</hi> ſide, not only proving <hi>Reſtleſs,</hi> but <hi>Troubleſome,</hi> and <hi>Fatal,</hi> even to their undoing, mak<g ref="char:EOLhyphen"/>ing them ſlight all Good Advice, neg<g ref="char:EOLhyphen"/>lect the <hi>Returns</hi> of Favours and Love, prove ingratefull, and <hi>return evil for good,</hi> and be ſo far inſenſible of the Benefits they have received, that they <hi>rather</hi> turn them to the Prejudice of the <hi>Doner,</hi> than make a due Ac<g ref="char:EOLhyphen"/>knowledgment? As it is reported of a certain perſon, who from a low con<g ref="char:EOLhyphen"/>dition being raiſed by his Prince to many Honours, when conſidering with himſelf that he ſhould never be capable of making a ſuitable return, but that he muſt be perpetually in<g ref="char:EOLhyphen"/>gaged to the Bounty and Beneficence of his Lord: What does Ambition and Ingratitude prompt him to, but to Con<g ref="char:EOLhyphen"/>ſpire
+<pb facs="tcp:50861:10"/>his death, thinking of no better a Way to take off the Obligation; but his Treaſon being Timely diſcove<g ref="char:EOLhyphen"/>red, and he not able to deny it, (the guilt of ſo foul an Intention not per<g ref="char:EOLhyphen"/>mitting a Concealment) his Lord commanded he ſhould be drawn in a Cart about the City, and that all ſuch as would, might uſe him deſpitefully, which in conſideration of his hainous Crime, was not wanting; yet he bore it patiently, till one ſtruck him a ſmall blow, which made him make many loud Laments; and being demanded the cauſe, he replyed, that That per<g ref="char:EOLhyphen"/>ſon had been maintained and relieved by his Bounty, and that he had ſaved his Life, and could not expect that he above all Men would have added <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o his Affliction; of which his Lord <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aring, ſaid, <hi>Even ſo have I raiſed <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im who ſought my Life;</hi> and there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon Commanded that he ſhould re<g ref="char:EOLhyphen"/>ceive
+<pb facs="tcp:50861:11"/>the Puniſhment due to his Trea<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>Wherefore let thoſe that Love their quiet beware how they tread theſe Dangerous Pathes, or ſoar upon th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> falſe Wings of Ambition, which wil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> certainly deceive them, and bring 'em t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a too late Repentance, if too long de<g ref="char:EOLhyphen"/>ferred.</p>
+            <p>But as I before hinted, let every on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be contented in their ſtation, wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> what is their own, not repining n<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> murmuring, but Serving their Mak<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in Truth and Sincerity, yielding rea<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Obedience to thoſe that are in Auth<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rity over them, faithfully and cheerf<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly diſcharging their Duty towar<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> GOD and Man, that ſo all may l<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> peaceably and be happy, baffling <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Malice and Envy of Hell, which da<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſeeks to raiſe Diviſions and Hatred
+<pb facs="tcp:50861:11"/>mongſt us, that the Kingdom of Dark<g ref="char:EOLhyphen"/>neſs may be the more inlarged.</p>
+            <p>But to conclude, let us rely upon GOD for all things, who is the Bleſſed Author of our Being, and well-Being, who better knows than our ſelves what is convenient for us, and ſtudy <hi>rather</hi> to be Good than Great, which ought to be the Task of every <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> that ſo they may live peaceable in this World, and be made <hi>Partakers</hi> of the endleſs Joys in that which is to come; which in his <hi>good time<g ref="char:punc">▪</g>
+               </hi> GOD will bring to all thoſe that Love and Fear him.</p>
+            <pb facs="tcp:50861:12"/>
+            <p> 
+               <hi>ANd now, O Lord God, moſt holy, moſt mercifull, and everlaſting Fa<g ref="char:EOLhyphen"/>ther of Spirits, and Lover of all thoſe that in purity and ſincerity put their truſt and confidence in thee, grant us thy un<g ref="char:EOLhyphen"/>worthy Servants ſuch a portion of thy Sa<g ref="char:EOLhyphen"/>ving Grace, as may inable us to know thee aright, and truſt in thee, as we ought, that ſo we may be able to overcome the Depraveties of Nature, and reſiſt thoſe Temptations that are dayly layed by the Prince of Darkneſs and of the Air, who Rules in the Children of Diſobedience. Give us, O thou Righteous God of all the Earth, ſuch an heart, that we may know our ſelves aright, and ever humble our ſelves before thy Divine Majeſty, who abhorreſt the proud and lofty, and giveſt grace to the humble and meek, that ſo we may be able to check thoſe aſpiring
+<pb facs="tcp:50861:12"/>thoughts that are too prone to puff up the mind in Pride and Ambition: Teach us for thy dear Mercies ſake to render ready Obedience to all thoſe that are put in Authority over us, that we may be al<g ref="char:EOLhyphen"/>ways free from Hatred and Malice, and be ever content with all cheerfulneſs in the condition or ſtation thou art pleaſed to place us in, that ſo we may be rende<g ref="char:EOLhyphen"/>red a fit Object of thy mercy and tender compaſſion, through</hi> Jeſus Chriſt <hi>the Son of thy Love, in whom, and through whom alone we can only expect thy favour and bleſſing. To whom, with thee, and thy Holy Spirit, be all Honour and Glo<g ref="char:EOLhyphen"/>ry, Power, Praiſe, and Dominion, World without end,</hi> Amen.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
